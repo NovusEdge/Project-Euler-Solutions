@@ -5,9 +5,9 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 
 
 #### Solutions
-- [Go Solution](https://github.com/NovusEdge/Project-Euler-Solutions/blob/master/Go/src/Problem002.go)
+- [Go Solution](https://github.com/NovusEdge/Project-Euler-Solutions/blob/master/Go/src/Problem001.go)
 - [Python Solution](https://github.com/NovusEdge/Project-Euler-Solutions/blob/master/Python/scripts/Problem001.py)
-- [Perl Solution](https://github.com/NovusEdge/Project-Euler-Solutions/blob/master/Perl/scripts/Problem001.py)
+- [Perl Solution](https://github.com/NovusEdge/Project-Euler-Solutions/blob/master/Perl/scripts/Problem001.pl)
 
 
 #### Answer:

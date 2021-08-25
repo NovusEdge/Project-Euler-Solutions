@@ -8,7 +8,7 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 #### Solutions:
 - [Go Solution](https://github.com/NovusEdge/Project-Euler-Solutions/blob/master/Go/src/Problem002.go)
 - [Python Solution](https://github.com/NovusEdge/Project-Euler-Solutions/blob/master/Python/scripts/Problem002.py)
-- [Perl Solution](https://github.com/NovusEdge/Project-Euler-Solutions/blob/master/Perl/scripts/Problem002.py)
+- [Perl Solution](https://github.com/NovusEdge/Project-Euler-Solutions/blob/master/Perl/scripts/Problem002.pl)
 
 
 #### Answer:
