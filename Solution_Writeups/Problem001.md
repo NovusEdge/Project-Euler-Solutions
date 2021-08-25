@@ -11,7 +11,7 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 
 
 #### Answer:
-    234168
+    233168
 
 
 Link to Problem 1: https://projecteuler.net/problem=1
