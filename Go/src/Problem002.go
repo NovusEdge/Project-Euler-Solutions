@@ -10,9 +10,9 @@ func Problem002() {
 	k := 1
 
 	for k < 4000000 {
-		ans += fibb_Problem2(i)
+		ans += fibb_Problem002(i)
 		i++
-		k = fibb_Problem2(i)
+		k = fibb_Problem002(i)
 	}
 
 	end := time.Now()
@@ -21,7 +21,7 @@ func Problem002() {
 	fmt.Printf("Time Taken: %f seconds\n\n", end.Sub(start).Seconds())
 }
 
-func fibb_Problem2(n int) int {
+func fibb_Problem002(n int) int {
 	a, b := 0, 1
 	for i := 1; i < n; i++ {
 		a += b
