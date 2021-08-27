@@ -8,6 +8,7 @@ If we list all the _natural numbers_ below 10 that are _multiples of 3 or 5_, we
 - [Go Solution](https://github.com/NovusEdge/Project-Euler-Solutions/blob/master/Go/src/Problem001.go)
 - [Python Solution](https://github.com/NovusEdge/Project-Euler-Solutions/blob/master/Python/scripts/Problem001.py)
 - [Perl Solution](https://github.com/NovusEdge/Project-Euler-Solutions/blob/master/Perl/scripts/Problem001.pl)
+- [Rust Solution](https://github.com/NovusEdge/Project-Euler-Solutions/blob/master/Rust/solutions/src/problem001.rs)
 
 
 #### Answer:
