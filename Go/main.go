@@ -8,4 +8,5 @@ func main() {
     euler.Problem003()
     euler.Problem004()
     euler.Problem005()
+    euler.Problem006()
 }

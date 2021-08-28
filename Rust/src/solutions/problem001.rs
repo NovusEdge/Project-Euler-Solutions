@@ -7,6 +7,6 @@ pub fn sol_problem001() {
 
     for i in 1..1000 { if i%3 == 0 || i%5 == 0 { sum += i; } }
 
-    println!("Answer: {}", sum);
+    println!("Answer to Problem 1: {}", sum);
     println!("Time Taken: {}", start.elapsed().as_millis());
 }
